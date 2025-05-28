@@ -1,0 +1,34 @@
+background-color 
+background-image
+background-repeat : lặp lại hình nền
+background-attachment : chỉ định hình ảnh nền sẽ cuộn hay cố định
+background-position :vị trí hình nền
+background
+opacity : độ trong suốt
+outline : xung quanh lề
+outline-offset : thêm khoảng cách giữa đường viền và đường viền:
+text-decoration : thêm đường trang trí vào văn bản
+text-decoration: none;   mất dấu gạch chân
+text-shadow: Bóng đổ văn bản
+cursor: pointer :thay đổi con trỏ chuột thành hình dạng bàn tay jhi di chuyển chuột vào
+list-style-type (unorderlist) : none :  loại đánh dấu mục danh sách 
+border-collapse: collapse thiết lập xem đường viền bảng có nên được thu gọn thành một đường viền duy nhất 
+display : chỉ định cách hiển thị một phần tử trên trang web.
+display: inline-block :hiển thị các mục danh sách theo chiều ngang thay vì theo chiều dọc
+display:flex
+flex-wrap:nowrap 
+flex-direction:row/column
+justify-content :center/space-between/space-around/space-evenly căn chỉnh các mục flex khi chúng không sử dụng hết không gian có sẵn trên trục chính (theo chiều ngang).
+align-items : center/flex-start(trên)/flex-end(dưới)/  căn chỉnh các mục flex khi chúng không sử dụng hết không gian có sẵn trên trục chéo (theo chiều dọc).
+align-content
+justify-content, align-items : căn chỉnh 
+visibility: hidden = display:none : ẩn
+position : relative(tương đối), fixed(cố định),absolute(tuyệt đối) sticky(dính) chỉ định loại phương pháp định vị được sử dụng cho một phần tử
+z-index: vị trí nằm trên hay dưới
+overflow:hidden(ẩn phần tràn) scroll(cuộn)  chỉ định liệu có nên cắt nội dung hay thêm thanh cuộn khi nội dung của một phần tử quá lớn không vừa với khu vực được chỉ định.
+float : chỉ định cách một phần tử sẽ nổi, dùng float để xóa khoảng cách giữa các nút
+
+object-fit : cover được sử dụng để chỉ định cách thay đổi kích thước của <img> hoặc <video> sao cho phù hợp với vùng chứa của nó.
+object-position: center định vị hình ảnh ở giữa 
+resize : both chỉ rõ liệu người dùng có thể thay đổi kích thước của một phần tử hay không
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
