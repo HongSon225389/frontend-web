@@ -288,6 +288,7 @@ footer{
     flex-wrap: nowrap;
     justify-content: space-between;
     padding: 0 20px 0 20px;
+    background-color: #33cc99;
 }
 
 footer .col{
@@ -298,10 +299,12 @@ footer .col{
 }
 
 footer .logo{
+    margin-top: 20px;
     margin-bottom: 30px;
 }
 
 footer h4{
+    margin-top: 20px;
     font-size: 14px;
     padding-bottom: 20px;
 }
